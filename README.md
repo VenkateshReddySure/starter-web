@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a sample website to show how to use GIT and GITHUB
+This is a sample website to show how to use GIT and GITHUB. Adding a line for rebasing.
 
 ## Introduction
 
